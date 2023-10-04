@@ -4,11 +4,13 @@ logo: /assets/img/logo.jpg
 description:
   <p align="center">
   <a href="pdf/resume.pdf">Resume</a> | <a href="https://www.linkedin.com/in/mohinesh-tayade/">LinkedIn</a> | <a href="https://github.com/mohinesh27">GitHub</a>
-  <br>   
-  I'm working as fullstack developer on technologies like .net, nodejs, python, Angular, MS SQL, MongoDB with cloud platforms like AWS, Azure, GCP.
+  </p>
+  <p>
+    <info>
+      I'm working as fullstack developer on technologies like .net, nodejs, python, Angular, MS SQL, MongoDB with cloud platforms like AWS, Azure, GCP.
   <br/>
   Also Data Science and AI ML enthusiast. Working in The Toro Company from last 4 years.
   <br>
+    </info>
   </p>
-
 theme: jekyll-theme-minimal
